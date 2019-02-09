@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^6.2.0",
+    "string-similarity": "^3.0.0",
     "tmi.js": "^1.3.1"
   }
 }

@@ -13,7 +13,7 @@ const options = {
     username: config.TWITCH_USERNAME,
     password: config.TWITCH_PASSWORD
   },
-  channels: ['#kenobi_sp']
+  channels: ['#kabajiow']
 };
 
 const client = new tmi.client(options);
